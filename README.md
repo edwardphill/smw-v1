@@ -1,2 +1,3 @@
-# smw-v1
-social media website, v1
+### Social Media Website, v1
+
+- from Udemy tutorial
